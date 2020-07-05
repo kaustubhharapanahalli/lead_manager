@@ -1,4 +1,13 @@
+# Node dependencies
+node_modules/
+
+# Django dependencies
 *.sqlite3
 env/
 */__pycache__
 */migrations
+*.log
+*.pot
+*.pyc
+media
+
